@@ -1,13 +1,10 @@
 header {
     clear: both;
-    
+    height: 100px;
 }
 
 .left {
     float: left;
-    height: 200px;
-    background-image: url("http://meifeng36.github.io/images/myLogo.gif");
-    background-repeat: no-repeat;
 }
 
 .center {
