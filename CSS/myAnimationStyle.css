@@ -1,9 +1,11 @@
 header {
     clear: both;
+    
 }
 
 .left {
     float: left;
+    background-image: url("http://meifeng36.github.io/images/myLogo.gif");
 }
 
 .center {
@@ -20,7 +22,7 @@ footer {
 }
 
 #animateDiv {
-    // width: 40px;
+    
     background: #09beb7;
     color: white;
     font-size: 20px;
