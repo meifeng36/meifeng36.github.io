@@ -20,6 +20,11 @@ footer {
     clear: both;
 }
 
+#myAddress {
+      float: right;
+}
+#myAddress p {text-align: right;}
+
 #animateDiv {
     
     background: #09beb7;
