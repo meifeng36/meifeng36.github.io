@@ -37,16 +37,16 @@ footer {
     0% {transform: rotate(0deg);left:-10%;}
    10% {transform: rotate(0deg);left:0px;}
    15% {transform: rotate(20deg);}
-   30% {transform: rotate(0deg);left:50%;}
-   40% {transform: scale(1.5,1.5);left:50%;}
-   46% {transform: scale(1,1);left:50%;}
-   50% {transform: rotate(0deg);left:50%;}
-   60% {transform: rotate(360deg);left:100%;background: #09beb7;}
-   65% {transform: rotate(350deg);left:100%;}
-   70% {transform: rotate(360deg);left:100%;}
-   75% {transform: rotate(370deg);left:100%;}
-   80% {transform: rotate(360deg);left:100%;background:#cc1ec6;}
-   90% {transform: rotate(0deg);left:50%;background:#cc1ec6;}
-   95% {transform: rotate(-20deg);left:50%;}
+   30% {transform: rotate(0deg);left:45%;}
+   40% {transform: scale(1.5,1.5);left:45%;}
+   46% {transform: scale(1,1);left:45%;}
+   50% {transform: rotate(0deg);left:45%;}
+   60% {transform: rotate(360deg);left:90%;background: #09beb7;}
+   65% {transform: rotate(350deg);left:90%;}
+   70% {transform: rotate(360deg);left:90%;}
+   75% {transform: rotate(370deg);left:90%;}
+   80% {transform: rotate(360deg);left:90%;background:#cc1ec6;}
+   90% {transform: rotate(0deg);left:45%;background:#cc1ec6;}
+   95% {transform: rotate(-20deg);left:45%;}
   100% {transform: rotate(0deg);left:-10%;}
 }
